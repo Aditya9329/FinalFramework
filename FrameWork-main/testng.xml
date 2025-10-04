@@ -5,7 +5,7 @@
   <parameter name="os" value="window" />
 	  <parameter name="browser" value="chrome" />
     <classes>
-      <class name="testBase.BaseClass"/>
+      <!--<class name="testBase.BaseClass"/>-->
       <class name="testCases.Account_Registration_TC001"/>
     </classes>
   </test> <!-- Test -->
